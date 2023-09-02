@@ -1,3 +1,3 @@
 # MAN-WATER-FISH-GAME
-This is my first respositry 
-author - Sanjeev pal
+This is My first Git Respositry. 
+Author - Sanjeev pal
